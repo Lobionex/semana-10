@@ -1,0 +1,9 @@
+body {
+    background-color: #f2f2f2; /* Fondo de página */
+    font-family: Arial, sans-serif; /* Fuente de texto */
+  }
+  p {
+    color: #00698f; /* Color de texto del párrafo */
+    font-size: 18px; /* Tamaño de texto del párrafo */
+    text-align: center; /* Alineación de texto del párrafo */
+  }

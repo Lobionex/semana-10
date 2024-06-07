@@ -1,0 +1,32 @@
+
+body {
+    width: 200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 5px 7px;}
+
+label{
+    width: 140px;
+    height: 20px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-size: 18px;
+    background-color: #ffffff;
+}
+
+button{width: 100%;
+    height: 40px;
+    background-color: #c6e85e;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;}
+
+
+    button:hover {
+        background-color: #ddd;
+      }

@@ -1,0 +1,25 @@
+body{justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #202323;
+
+    
+}
+
+a{position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.53em;
+    letter-spacing: 0.2em;
+    font-weight: 400;
+    padding: 10px 30px;
+    transition: 0.5s;
+    background: rgb(7,1,252);
+    background: radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(255, 66, 9) 100%);
+}
+
+a:hover{letter-spacing: 0.25em;
+    background: var(--clr);
+    box-shadow: 30px 20px 15px var(--clr);
+}
